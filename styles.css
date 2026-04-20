@@ -1,72 +1,108 @@
 body{
-    background-color: white;
     margin: 0%;
+    background-color: aqua;
+    padding: 0px;
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
 }
 h1{
-    color: #fff;
-    text-align: center;
-    background-color: black;
-    margin: 0;
-    padding: 0;
+    font-size: 50px;
 }
 h2{
-    color: #fff;
+    font-size: 30px;
     text-align: center;
-    background-color: black;
-    margin: 0;
-    padding: 20;
-    font-size: 20px;
 }
-nav {
+h3{
+    font-size: 20px;
+    text-align: center;
+}
+h4{
+    font-size: 18px;
+    text-align: center;
+}
+p{
+    font-size: 15px;
+    text-align: center;
+    color: red;
+}
+.europe{
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+        margin: 20px;
+        justify-content: space-between;
+}
+.luxury{
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    margin: 20px;
+    justify-content: space-between;
+}
+.culture{
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    margin: 20px;
+    justify-content: space-between;
+}
+.tropic{
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    margin: 20px;
+    justify-content: space-between;
+}
+.hawaiiimg{
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.maldivesimg{
+    border-radius: 10px;
+    margin: 50px;
+}
+.londonimg{
+    border-radius: 10px;
+    margin: 50px;
+}
+.parisimg{
+    border-radius: 10px;
+    margin: 50px;
+}
+.dubaiimg{
+    border-radius: 10px;
+    margin: 50px;
+}
+.egyptimg{
+    border-radius: 10px;
+    margin: 50px;
+}
+section{
+    background-color: rgba(255, 255, 255, 0.861);
+    border-radius: 10px;
+    margin: 20px;
+    align-items: center;
+    transition: all 0.3s ease;
+    box-sizing: border-box;
+}
+nav{
+    background-color: black;
+    color: white;
     display: flex;
     justify-content: center;
+    gap: 60px;
     padding: 10px;
-    margin: 0 20px;
-    letter-spacing: 0.5px;
     text-decoration: none;
-    
+    }   
+section:hover{
+    transform: scale(1.05);
 }
-section.tropic{
-    display: flex;
-    background-color: white;
-
-}
-section.tropic img{
-    width: 50%;
-    height: 50%;
-}
-div.tropic p{
-    width: 50%;
-    height: 50%;
-    padding: 20px;
-}
-hawaii{
-    display: flex;
-    background-color: white;
-}
-div hawaii img{
-    width: 50%;
-    height: 50%;
-}
-section.europe{
-    display: flex;
-    background-color: white;
-}
-europe img{
-    width: 50%;
-    height: 50%;
-}
-section.ski{
-    display: flex;
-    background-color: white;
-}
-section.luxury{
-    display: flex;
-    background-color: white;
-}
-section.culture{
-    display: flex;
-    background-color: white;
+section p{
+    color: black;
 }
 footer{
     background-color: black;
