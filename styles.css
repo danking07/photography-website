@@ -1,0 +1,76 @@
+body{
+    background-color: white;
+    margin: 0%;
+}
+h1{
+    color: #fff;
+    text-align: center;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+h2{
+    color: #fff;
+    text-align: center;
+    background-color: black;
+    margin: 0;
+    padding: 20;
+    font-size: 20px;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin: 0 20px;
+    letter-spacing: 0.5px;
+    text-decoration: none;
+    
+}
+section.tropic{
+    display: flex;
+    background-color: white;
+
+}
+section.tropic img{
+    width: 50%;
+    height: 50%;
+}
+div.tropic p{
+    width: 50%;
+    height: 50%;
+    padding: 20px;
+}
+hawaii{
+    display: flex;
+    background-color: white;
+}
+div hawaii img{
+    width: 50%;
+    height: 50%;
+}
+section.europe{
+    display: flex;
+    background-color: white;
+}
+europe img{
+    width: 50%;
+    height: 50%;
+}
+section.ski{
+    display: flex;
+    background-color: white;
+}
+section.luxury{
+    display: flex;
+    background-color: white;
+}
+section.culture{
+    display: flex;
+    background-color: white;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
