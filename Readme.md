@@ -10,6 +10,8 @@ it shows a list of photos collage from different countries with a short descript
 View using the github repository link and look at the indexhtml file
 The link To the Git repository is provided below
 https://github.com/danking07/photography-website
+The link the website is provided below
+http://localhost:5500/Index.html
 All copyrights reserved 
 © 2026
 
