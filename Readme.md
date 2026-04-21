@@ -1,9 +1,8 @@
-##My photography-website
-##Features 
+My photography-website
+Features used:
 Html
 Css 
 
-##DESCRIPTION
 This is a simple photo collage website built using Html and Css knowledge
 It constists of photos and decription of those photos
 basic use of html and css tools
