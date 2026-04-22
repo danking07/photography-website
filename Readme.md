@@ -1,16 +1,21 @@
-My photography-website
-Features used:
+# photography-website
+Travel.GO
+##Technologies used:
 Html
 Css 
-Project made by Duncan
-This is a simple photo collage website built using Html and Css knowledge
-It constists of photos and decription of those photos
-it shows a list of photos collage from different countries with a short description of them
+
+#Project created by DUNCAN
+
+##ABOUT
+This is a simple website created to show different destinations all around the world 
+and describe the content of the photos listed. The website showcases different travel destinations with a clean layout and basic styling.
  
-View using the github repository link and look at the indexhtml file
-The link To the Git repository is provided below
+## View using the github repository 
+## The link To the Git repository is provided below
 https://github.com/danking07/photography-website
-The link the website is provided below
+## The link the github pages is provided below
+https://danking07.github.io/photography-website/
+
 
 All copyrights reserved 
 © 2026
